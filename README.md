@@ -13,7 +13,7 @@
 
 ## Bugs
 
-* None known
+* If at the very bottom of the page while hovering over ol li elements the page may shake
 
 ## For support
 

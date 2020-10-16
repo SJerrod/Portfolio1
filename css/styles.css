@@ -89,4 +89,9 @@ li {
 
 ol p {
   font-size: 20px;
+  display: none;
+}
+
+.card li:hover + p {
+  display: block;
 }
