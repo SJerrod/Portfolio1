@@ -2,7 +2,7 @@
 
 #### A little bit about me, 10.16.2020
 
-#### **By Jerrod Styr**
+#### **By Jerrod Styrk**
 
 ## This is a portfolio displaying a basic run down on what Epicodus has taught me in the first week.
 
@@ -21,11 +21,11 @@ _jstyrk@citadel.edu_
 
 ## Technologies and tools used
 
-Visual Studio Code
-HTML
-Bootstrap
-Css
-Markdown
+* Visual Studio Code
+* HTML
+* Bootstrap
+* Css
+* Markdown
 
 ### License
 

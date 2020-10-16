@@ -1,12 +1,12 @@
 body {
   background: rgb(112,66,38);
-background: linear-gradient(45deg, rgba(112,66,38,1) 10%, rgba(101,60,170,1) 48%, rgba(111,181,195,1) 77%);
+  background: linear-gradient(45deg, rgba(112,66,38,1) 10%, rgba(101,60,170,1) 48%, rgba(111,181,195,1) 77%);
 }
 
 .card {
   background: rgb(112,66,38);
-background: linear-gradient(50deg, rgba(112,66,38,1) 10%, rgba(101,60,170,1) 48%, rgba(111,181,195,1) 77%);
-padding: 30px;
+  background: linear-gradient(50deg, rgba(112,66,38,1) 10%, rgba(101,60,170,1) 48%, rgba(111,181,195,1) 77%);
+  padding: 30px;
 }
 
 .jumbotron {
@@ -67,6 +67,8 @@ span {
 p {
   font-size: 30px;
   color: black;
+  text-indent: 80px;
+  font-family: sans;
 }
 
 .nav-pills {
@@ -78,4 +80,13 @@ p {
 
 li {
   color: black;
+}
+
+.card li {
+  font-size: 25px;
+  text-decoration: underline;
+}
+
+ol p {
+  font-size: 20px;
 }
