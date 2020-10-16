@@ -4,12 +4,12 @@
 
 #### **By Jerrod Styr**
 
-## This is a portfolio displaying a basic run down on what Epicodus has taught me so far.
+## This is a portfolio displaying a basic run down on what Epicodus has taught me in the first week.
 
 ## Setup
 
 * [Click to view Github repository]
-* [Click to open live site in Github]
+* [Click to open active site in Github]
 
 ## Bugs
 
