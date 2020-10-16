@@ -9,7 +9,7 @@
 ## Setup
 
 * [Click to view Github repository](https://github.com/SJerrod/Portfolio1)
-* [Click to open active site in Github]
+* [Click to open active site in Github](https://sjerrod.github.io/Portfolio1/)
 
 ## Bugs
 
